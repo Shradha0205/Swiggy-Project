@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58035" started-at="2019-04-06T18:50:39Z" finished-at="2019-04-06T18:51:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58035" started-at="2019-04-06T18:50:39Z" finished-at="2019-04-06T18:51:37Z">
+      <class name="Swiggy_Project.Swiggy_Project.Swiggy">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:Swiggy_Project.Swiggy_Project.Swiggy@3532ec19]" name="OpenBrowser" is-config="true" duration-ms="2480" started-at="2019-04-06T18:50:39Z" finished-at="2019-04-06T18:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="main()[pri:0, instance:Swiggy_Project.Swiggy_Project.Swiggy@3532ec19]" name="main" duration-ms="55538" started-at="2019-04-06T18:50:42Z" finished-at="2019-04-06T18:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:Swiggy_Project.Swiggy_Project.Swiggy@3532ec19]" name="TearDown" is-config="true" duration-ms="0" started-at="2019-04-06T18:51:37Z" finished-at="2019-04-06T18:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Swiggy_Project.Swiggy_Project.Swiggy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
