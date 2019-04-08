@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Swiggy_Project.Swiggy_Project.Swiggy">
+      <class name="Swiggy_Project.Swiggy_Project.Swiggy2">
         <methods>
-          <include name="OpenBrowser"/>
-          <include name="TearDown"/>
           <include name="main"/>
+          <include name="TearDown"/>
+          <include name="OpenBrowser"/>
         </methods>
-      </class> <!-- Swiggy_Project.Swiggy_Project.Swiggy -->
+      </class> <!-- Swiggy_Project.Swiggy_Project.Swiggy2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
